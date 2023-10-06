@@ -23,3 +23,4 @@ The script performs the following steps:
 8. **Makes predictions**: The model makes predictions on the test data.
 
 9. **Visualizes predictions**: The script uses Matplotlib to visualize the first 5 test images, their predicted labels, and the true labels.
+
